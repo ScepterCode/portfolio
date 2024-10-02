@@ -35,6 +35,7 @@ module.exports = {
         rotateIcon: 'rotateIcon 900ms linear',
       },
       width: {
+        '200px':'200px',
         '260px':'260px',
         '280px':'280px',
         '100px':'100px',
