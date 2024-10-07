@@ -79,7 +79,7 @@ function sendEmail(e) {
         else(
             Swal.fire({
                 title: "Error",
-                text: "An error occurred while sending the message, please use a valid email address",
+                text: "An error occurred while sending the message, please try again",
                 icon: "error"
             })
         )
