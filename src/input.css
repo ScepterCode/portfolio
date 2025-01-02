@@ -157,7 +157,7 @@
         /* width: 20px; */
       }
     .navbar {
-        background-color: #23263a;
+        background-color: #1436b2;
         padding: 25px 24px;
         color: white;
         transition: top 0.9s ease-in-out, background-color 0.9s ease-in-out;
@@ -283,7 +283,7 @@
         display: inline-block;
     }
     .navbar2 ul li a:hover{
-        color: #ff4a57;
+        color: #0ed8a5;
     }
     nav .ul2{
         background-color: #1f2235f5;

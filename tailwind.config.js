@@ -5,10 +5,10 @@ module.exports = {
     extend: {
       colors:{
         bgMe:{
-          "nav": "#1f2235",
-          "nav2": "#23263a",
+          "nav": "#1436b2",
+          "nav2": "#1177ad",
           "nav3": "#191b2b",
-          "orng": "#ff4a57",
+          "orng": "#0ed8a5",
           'prgs': "#e9ecef3f",
           'awhite': "#dfdfdf",
         }
