@@ -1371,6 +1371,11 @@ footer i:hover {
   line-height: 2.25rem;
 }
 
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
@@ -1394,11 +1399,6 @@ footer i:hover {
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
-}
-
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
 }
 
 .font-bold {
@@ -1452,7 +1452,7 @@ footer i:hover {
   right: 20px;
   z-index: 99;
   /* Ensure it appears above other content */
-  color: #ff4a57;
+  color: #0ed8a5;
   /* Example color, adjust as needed */
   font-size: 40px;
   /* Adjust icon size as needed */
