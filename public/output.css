@@ -1571,6 +1571,13 @@ footer i:hover {
   transition: opacity 0.3s ease;
 }
 
+.devDes{
+  background-color: #0ed8a5;
+  border-radius: 15px;
+  text-align: center;
+  padding: 5px 0;
+}
+
 .port-img:hover .content {
   opacity: 1;
   /* Show the content on hover */
